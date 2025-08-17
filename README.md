@@ -6,15 +6,13 @@
 
 ## 🌐 Live Demo
 
-> 💡 You can view the live version (after deployment) here:  
-> [https://your-username.github.io/foodie](https://your-username.github.io/foodie)  
-> _(Replace the link with your GitHub Pages URL after deployment)_
 
 ---
 
 ## 📸 Preview
-
-> _Insert a screenshot or GIF of the website here to give visitors a visual idea of the project._
+https://cdn.codechef.com/download/Contest+images/DHTEST/bkcombo.jpeg
+https://cdn.codechef.com/download/Contest+images/DHTEST/combo.jpeg
+https://cdn.codechef.com/download/Contest+images/DHTEST/kfccombo.jpeg
 
 ---
 
