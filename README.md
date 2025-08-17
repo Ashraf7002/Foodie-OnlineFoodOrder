@@ -9,13 +9,6 @@
 
 ---
 
-## 📸 Preview
-https://cdn.codechef.com/download/Contest+images/DHTEST/bkcombo.jpeg
-https://cdn.codechef.com/download/Contest+images/DHTEST/combo.jpeg
-https://cdn.codechef.com/download/Contest+images/DHTEST/kfccombo.jpeg
-
----
-
 ## 🚀 Features
 
 - ✅ Responsive layout with meta viewport tag
